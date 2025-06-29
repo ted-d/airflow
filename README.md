@@ -29,5 +29,7 @@ DAG_START_DATE = datetime(2025, 6, 19)
 скрин успешно выполненных задач<br>
 ![Успешное выполнение](docs/task.png)
 ![bd](docs/bd.png)
+<br>ide
+![ide](docs/vscode.png)
 
 
