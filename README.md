@@ -10,6 +10,6 @@ DAG для ежедневной загрузки курсов валют с са
 - Логирование
 
 ## Скриншоты
-![Граф DAG](docs/screenshots/dag_graph.png)
+![Граф DAG](docs/dag_graph.png)
 ![Успешное выполнение](docs/screenshots/task_success.png)
 
