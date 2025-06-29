@@ -1,4 +1,4 @@
-#Airflow DAG: Загрузка курсов валют ЦБ РФ
+# ![Airflow](https://github.com/apache/airflow/raw/main/airflow/www/static/pin_100.png)Airflow DAG: Загрузка курсов валют ЦБ РФ
 
 ## Описание
 DAG для ежедневной загрузки курсов валют с сайта Центробанка России.
