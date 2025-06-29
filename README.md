@@ -1,4 +1,4 @@
-#[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org) Airflow DAG: Загрузка курсов валют ЦБ РФ
+#Airflow DAG: Загрузка курсов валют ЦБ РФ
 
 ## Описание
 DAG для ежедневной загрузки курсов валют с сайта Центробанка России.
